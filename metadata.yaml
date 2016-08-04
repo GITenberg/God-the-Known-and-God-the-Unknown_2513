@@ -1,0 +1,30 @@
+_repo: God-the-Known-and-God-the-Unknown_2513
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Butler, Samuel
+    alias: Cellarius
+    birthdate: 1835
+    deathdate: 1902
+    gutenberg_agent_id: '748'
+    url: http://www.gutenberg.org/2009/agents/748
+    wikipedia: http://en.wikipedia.org/wiki/Samuel_Butler_(1835-1902)
+description: Published in 1917, this volume is based on a series of articles published
+  by Butler in the 1870s and revised by him prior to his death. Here Butler sets forth
+  his conception of the divine, as a evolutionary force that encompasses all living
+  things and tends toward ever-greater unity and self-awareness.
+gutenberg_issued: '2001-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2513'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'God'
+- !lcc 'BL'
+- !lcsh 'Evolution'
+- GITenberg
+title: God the Known and God the Unknown
+url: http://www.gutenberg.org/ebooks/2513
