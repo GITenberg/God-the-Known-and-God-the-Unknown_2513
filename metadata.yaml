@@ -1,5 +1,8 @@
 _repo: God-the-Known-and-God-the-Unknown_2513
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Butler, Samuel
@@ -13,6 +16,8 @@ description: Published in 1917, this volume is based on a series of articles pub
   by Butler in the 1870s and revised by him prior to his death. Here Butler sets forth
   his conception of the divine, as a evolutionary force that encompasses all living
   things and tends toward ever-greater unity and self-awareness.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2513#God-the-Known-and-God-the-Unknown
 gutenberg_issued: '2001-02-01'
 gutenberg_type: Text
 identifiers:
